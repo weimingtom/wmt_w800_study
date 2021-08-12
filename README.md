@@ -17,3 +17,4 @@ https://developer.aliyun.com/article/778296
 ## W800开发板（CB6201）    
 https://occ.t-head.cn/store/board  
 https://occ.t-head.cn/vendor/shop/4?vendorId=3717904810151473152  
+https://occ.t-head.cn/community/download?id=581557831434502144  
