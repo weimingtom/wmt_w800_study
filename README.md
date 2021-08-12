@@ -13,3 +13,7 @@ https://post.smzdm.com/p/aoowp2pm/
 
 ## W800-上手学习开发体验总结  
 https://developer.aliyun.com/article/778296  
+
+## W800开发板（CB6201）    
+https://occ.t-head.cn/store/board  
+https://occ.t-head.cn/vendor/shop/4?vendorId=3717904810151473152  
